@@ -1,5 +1,0 @@
-public class chatgpt_api {
-    public static void main(String[] args) {
-          System.out.println("(♥◠‿◠)ﾉﾞ  chatgpt 模块启动成功   ლ(´ڡ`ლ)ﾞ  ");
-    }
-}
